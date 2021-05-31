@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap');
+
+
+body {
+    margin: 0;
+    background-color: #efdecd;
+}
+
+#title {
+    font-family: 'Londrina Solid', cursive;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 25vh;
+    font-size: 2em;
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffbcoverstreet.com%2Fcontent%2Fc8fAej2W5CAjgqQdIgL5soYbv6JMrMLsngph4agFnmQY7aV1GqmlJkKwjENiaons.jpg&f=1&nofb=1');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+figcaption {
+    text-align: center;
+    padding: 15px;
+    font-size: 1em;
+}
+
+#tribute-info h2{
+    font-size: 2em;
+}
+
+#tribute-info {
+    text-align: center;
+    margin: 0 auto 0 auto;
+}
+
+main {
+    font-family: 'Mate SC', serif;
+    text-align: center;
+    width: 60em;
+    margin: auto;
+    line-height: 2;
+}
